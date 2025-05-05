@@ -15,7 +15,7 @@
   ![Bash         ](https://img.shields.io/badge/Bash-1?logo=gnubash&logoColor=white&labelColor=black&color=black)
   ![Docker       ](https://img.shields.io/badge/Docker-1?logo=docker&logoColor=white&labelColor=black&color=black)
   ![Kubernetes   ](https://img.shields.io/badge/Kubernetes-1?logo=kubernetes&logoColor=white&labelColor=black&color=black)
-  ![Helm         ](https://img.shields.io/badge/helm-1?logo=helm&logoColor=white&labelColor=black&color=black)
+  ![Helm         ](https://img.shields.io/badge/Helm-1?logo=helm&logoColor=white&labelColor=black&color=black)
   ![Grafana      ](https://img.shields.io/badge/Grafana-1?logo=grafana&logoColor=white&labelColor=black&color=black)
   ![Prometheus   ](https://img.shields.io/badge/Prometheus-1?logo=prometheus&logoColor=white&labelColor=black&color=black)
   ![Linux        ](https://img.shields.io/badge/Linux-1?logo=linux&logoColor=white&labelColor=black&color=black)
