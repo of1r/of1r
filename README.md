@@ -5,7 +5,9 @@
 <div align="center">
   <br/>
   
-  <img src="https://img.shields.io/github/stars/of1r?style=social">
+<a href="https://www.linkedin.com/in/ofir-goaris" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+</a>
   <img <img src="https://visitor-badge.laobi.icu/badge?page_id=of1r" alt="Visitor Badge" style="max-width: 100%;">
             
   <br/>
