@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/ofir-goaris" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
 </a>
-  <img <img src="https://visitor-badge.laobi.icu/badge?page_id=of1r" alt="Visitor Badge" style="max-width: 100%;">
+  <img <img src="https://camo.githubusercontent.com/2ac83eb6d72a2c975010c4871e063d48dc21b4a95e0a524189f734697d6c28e0/68747470733a2f2f76697369746f722d62616467652e6c616f62692e6963752f62616467653f706167655f69643d6f663172" alt="Visitor Badge" style="max-width: 100%;">
             
   <br/>
   <br/>
