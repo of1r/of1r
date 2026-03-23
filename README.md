@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&text=Ofir%20Goaris%20Github%20Profile&reversal=false&textBg=false&fontAlign=50&rotate=-3&descAlign=30&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&text=Ofir's%20Github%20Profile&reversal=false&textBg=false&fontAlign=50&rotate=-3&descAlign=30&section=header"/>
 </p>
 
 <div align="center">
