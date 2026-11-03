@@ -31,7 +31,6 @@
   ![EKS          ](https://img.shields.io/badge/EKS-1?logo=kubernetes&logoColor=white&labelColor=black&color=black)
   <br/>
   
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=of1r&layout=compact&theme=vision-friendly-dark">
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=of1r&theme=dark&background=000000">
   
 </div>
